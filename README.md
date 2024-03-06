@@ -8,14 +8,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&color=0e75b6&style=flat" alt="johnraivenolazo" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=radical)
-
-
+<div>
+<div>
 - 👨‍💻 All of my projects are available at [https://johnraivenolazo.vercel.app/](https://johnraivenolazo.vercel.app/)
 
 - 📫 How to reach me **johnraivenolazo@gmail.com**
 
 - ⚡ fact about me **I really love programming, I really do.**
+</div>
+<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=radical)
+</div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

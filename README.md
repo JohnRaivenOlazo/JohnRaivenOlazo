@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **johnraivenolazo@gmail.com**
 
-- ⚡ fact about me **I really love programming, I really do.**
+- ⚡ Fact about me **I really love programming, I really do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

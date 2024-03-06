@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raiven</h1>
 <h3 align="center">A passionate full stack developer from Rodriguez, Rizal Philippines</h3>
 
-<img margin="0 auto" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-<br><br>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&color=0e75b6&style=flat" alt="johnraivenolazo" /> </p>
 

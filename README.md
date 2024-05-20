@@ -9,7 +9,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&color=0e75b6&style=flat" alt="johnraivenolazo" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=radical)
-[![Total Commits](https://img.shields.io/github/commit-activity/m/johnraivenolazo/johnraivenolazo?label=Total%20Commits)](https://github.com/johnraivenolazo)
 
 
 - 👨‍💻 All of my projects are available at [https://johnraivenolazo.vercel.app](https://johnraivenolazo.vercel.app)

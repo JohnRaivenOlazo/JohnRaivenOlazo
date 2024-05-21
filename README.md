@@ -12,7 +12,7 @@
 <h3 align="center">A passionate full stack developer from Philippines 🇵🇭</h3>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=radical)
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=radical)</p>
 
 - 👨‍💻 All of my projects are available at [https://johnraivenolazo.vercel.app](https://johnraivenolazo.vercel.app)
 

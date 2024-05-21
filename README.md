@@ -33,9 +33,9 @@
 <br/>
 <div align="center">
     <!-- Programming Languages -->
-    <img src="https://skillicons.dev/icons?i=javascript,python,lua,typescript,c,java,html,css,cpp,php" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,python,lua,typescript,c,cpp,java,php" /><br>
     <!-- Frameworks -->
-    <img src="https://skillicons.dev/icons?i=react,angular,vuejs,bootstrap,tailwind,sass,nodejs,express,firebase,mongodb,nextjs,mysql,flask,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,angular,vuejs,bootstrap,tailwind,sass,nodejs,express,firebase,mongodb,nextjs,mysql,flask,spring" /><br>
     <!-- Platforms/Cloud -->
     <img src="https://skillicons.dev/icons?i=aws,azure" /><br>
     <!-- Tools/Utilities -->

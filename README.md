@@ -17,9 +17,9 @@
 
   <p>- 👨‍💻 All of my projects are available at <a href="https://johnraivenolazo.vercel.app">https://johnraivenolazo.vercel.app</a></p>
 
-  <p>- 📫 How to reach me **johnraivenolazo@gmail.com**</p>
+  <p>- 📫 How to reach me <strong>johnraivenolazo@gmail.com</strong></p>
 
-  <p>- ⚡ Fact about me **I really love programming, I really do.**</p>
+  <p>- ⚡ Fact about me <strong>I really love programming, I really do.</strong></p>
 
 </div>
 

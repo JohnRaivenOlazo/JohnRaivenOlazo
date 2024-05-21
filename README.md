@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">🌐 Connect With Me 🌐</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/john-raiven-olazo-145171280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-raiven-olazo-145171280/" height="30" width="40" /></a>
 <a href="https://facebook.com/johnraivenolazo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/johnraivenolazo" height="30" width="40" /></a>

@@ -37,7 +37,7 @@
     <!-- Frameworks -->
     <img src="https://skillicons.dev/icons?i=react,bootstrap,sass,tailwind,nodejs,express,firebase,mongodb,nextjs,mysql,flask" /><br>
     <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,figma,git" /><br>
 </div>
 
 <br/>

@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋,</h1>
-
+</hr>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=I'm+John+Raiven+Olazo!+;+Welcome+to+my+github+profile!;" />
 </h1>
 
-<h3 align="center">A passionate full stack developer from Rodriguez, Rizal Philippines</h3>
+<h3 align="center">A passionate full stack developer from Philippines 🇵🇭</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&color=0e75b6&style=flat" alt="johnraivenolazo" /> </p>
 

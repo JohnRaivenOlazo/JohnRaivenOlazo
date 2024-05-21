@@ -33,11 +33,11 @@
 <br/>
 <div align="center">
     <!-- Programming Languages -->
-    <img src="https://skillicons.dev/icons?i=r,python,lua,javascript,typescript,c,java,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,python,lua,typescript,c,java,html,css" /><br>
     <!-- Frameworks -->
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,sass,tailwind,nodejs,express,firebase,mongodb,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,sass,nodejs,express,firebase,mongodb,nextjs,mysql,flask" /><br>
     <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,intellij,github,figma,git" /><br>
 </div>
 
 <br/>

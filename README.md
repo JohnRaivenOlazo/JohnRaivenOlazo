@@ -12,14 +12,17 @@
 <h3 align="center">A passionate full stack developer from Philippines 🇵🇭</h3>
 
 <div align="center">
-<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=radical)</p>
 
-- 👨‍💻 All of my projects are available at [https://johnraivenolazo.vercel.app](https://johnraivenolazo.vercel.app)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=radical)
 
-- 📫 How to reach me **johnraivenolazo@gmail.com**
+  <p>- 👨‍💻 All of my projects are available at <a href="https://johnraivenolazo.vercel.app">https://johnraivenolazo.vercel.app</a></p>
 
-- ⚡ Fact about me **I really love programming, I really do.**
+  <p>- 📫 How to reach me **johnraivenolazo@gmail.com**</p>
+
+  <p>- ⚡ Fact about me **I really love programming, I really do.**</p>
+
 </div>
+
 
 <div align="center"> 
   <a href="mailto:johnraivenolazo@gmail.com">

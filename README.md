@@ -1,4 +1,4 @@
-<hr />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=header"/> <!--HEADER-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&color=0e75b6&style=flat" alt="johnraivenolazo" /> </p>
 
 <p align="center">
@@ -82,5 +82,4 @@
 </div>
 
 <br/><br/>
-
-<hr/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/> <!--FOOTER-->

@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fjalla+One&pause=1000&color=7DF9FF&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi👋,+I'm+John+Raiven+Olazo!+;+Welcome+to+my+github+profile!+:>;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fjalla+One&pause=1000&color=7DF9FF&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi👋,+I'm+John+Raiven+Olazo!+;+Welcome+to+my+github+profile!;" />
 </h1>
 
 <h3 align="center">A passionate full stack developer from Philippines 🇵🇭</h3>

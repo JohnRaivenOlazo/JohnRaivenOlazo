@@ -49,14 +49,16 @@
 <br/>
 <div align="center">
     <!-- Programming Languages -->
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,php,java,python,lua,c,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,php,java,python,lua" /><br>
     <!-- Frameworks -->
-    <img src="https://skillicons.dev/icons?i=html,css,react,angular,vuejs,bootstrap,tailwind,sass,nodejs,express,firebase,mongodb,nextjs,mysql,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,bootstrap,tailwind,sass,express,firebase" /><br>
+<!--     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,angular,vuejs,bootstrap,tailwind,sass,express,firebase,mongodb,mysql,spring" /><br> -->
     <!-- Platforms/Cloud -->
-    <img src="https://skillicons.dev/icons?i=aws,azure" /><br>
+<!--     <img src="https://skillicons.dev/icons?i=aws,azure" /><br> -->
     <!-- Tools/Utilities -->
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,figma,docker,kubernetes,selenium" /><br>
-    <!-- Databases -->
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,git,github,docker" /><br>
+<!--     <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,figma,docker,kubernetes,selenium" /><br> -->
+<!--     <!-- Databases -->
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /><br>
 </div>
 

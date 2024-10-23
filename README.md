@@ -15,7 +15,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=radical)
 
-  <p>- 👨‍💻 All of my projects are available at <strong><a href="https://johnraivenolazo.vercel.app">https://johnraivenolazo.vercel.app</a></p></strong>
+  <!--<p>- 👨‍💻 All of my projects are available at <strong><a href="https://johnraivenolazo.vercel.app">https://johnraivenolazo.vercel.app</a></p></strong> -->
   <p>- ⚡ Fact about me <strong>I really love programming, I really do.</strong></p>
 
 </div>

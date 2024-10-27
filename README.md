@@ -20,7 +20,6 @@
 
 </div>
 
-
 <div align="center"> 
   <a href="mailto:johnraivenolazo@gmail.com">
     <img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -57,6 +56,13 @@
 <!--     <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,figma,docker,kubernetes,selenium" /><br> -->
 <!--     <!-- Databases -->
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /><br>
+</div>
+<hr/>
+<h2 align="center">📜 Certifications 📜</h2>
+<div align="center">
+    <a href="https://courses.cognitiveclass.ai/certificates/301bc038c75a409da82c659fc04a1658" target="_blank">
+        <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-blue?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>
+    </a>
 </div>
 
 <br/>

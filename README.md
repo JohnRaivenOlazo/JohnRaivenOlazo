@@ -11,10 +11,10 @@
 </h2>
 
 <p><strong><h2>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me
 </h2></strong></p>
 
-<img align="right" width="450px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=blueberry"/>
+<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=blueberry"/>
 
 <p align="center">
 I am a <strong>Computer Science</strong> student, expanding my knowledge in both front-end and back-end development. With experience as a web developer over the years of self learning, I am focused on strengthening my skills and exploring new technologies.

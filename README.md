@@ -45,7 +45,7 @@ I am a <strong>Computer Science</strong> student, expanding my knowledge in both
    <a href="https://leetcode.com/johnraivenolazo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/johnraivenolazo/" height="30" width="40" /></a>
 </p>
 <hr/>
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; Tech Stack &nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></h2>
 <br/>
 <div align="center">
    <!-- Programming Languages -->

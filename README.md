@@ -14,11 +14,13 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me
 </h2></strong></p>
 
-<img align="right" width="410px" height="295" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=blueberry"/>
+<img align="right" width="450px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=blueberry"/>
 
 <p align="center">
 I am a <strong>Computer Science</strong> student, expanding my knowledge in both front-end and back-end development. With experience as a web developer over the years of self learning, I am focused on strengthening my skills and exploring new technologies.
 </p>
+<p align="center">⚡ Fact about me <strong>I really love programming, I really do.</strong></p>
+<p align="center"><a href="mailto:johnraivenolazo@gmail.com"><img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a></p>
 
 ### Education
 | Grade Level | School Name                            | Date              |
@@ -28,8 +30,6 @@ I am a <strong>Computer Science</strong> student, expanding my knowledge in both
 
 
  <!--<p>- 👨‍💻 All of my projects are available at <strong><a href="https://johnraivenolazo.vercel.app">https://johnraivenolazo.vercel.app</a></p></strong> -->
-<p align="center">⚡ Fact about me <strong>I really love programming, I really do.</strong></p>
-<p align="center"><a href="mailto:johnraivenolazo@gmail.com"><img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a></p>
 <!--   <a href="https://www.linkedin.com/in/john-raiven-olazo-145171280" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
    </a> -->

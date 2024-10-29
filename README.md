@@ -44,6 +44,9 @@ I am a <strong>Computer Science</strong> student, expanding my knowledge in both
    <a href="https://facebook.com/johnraivenolazo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/johnraivenolazo" height="30" width="40" /></a>
    <a href="https://leetcode.com/johnraivenolazo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/johnraivenolazo/" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <hr/>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; Tech Stack &nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></h2>
 <br/>
@@ -69,13 +72,6 @@ I am a <strong>Computer Science</strong> student, expanding my knowledge in both
    </a>
 </div>
 <br/>
-<hr/>
-<div align="center">
-   <h2>🐍 My Contributions 🐍</h2>
-   <br>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-   <br/><br/><br/>
-</div>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>

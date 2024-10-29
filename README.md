@@ -7,7 +7,7 @@
 
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fjalla+One&pause=1000&color=7DF9FF&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi👋,+I'm+John+Raiven+Olazo!+;+Welcome+to+my+github+profile!;" />
-<p>A passionate developer from Philippines 🇵🇭</p>
+<p>I'm a passionate developer from the Philippines 🇵🇭</p>
 </h2>
 
 <p><strong><h2>

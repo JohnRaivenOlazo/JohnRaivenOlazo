@@ -85,7 +85,7 @@ I am a <strong>Computer Science</strong> student, expanding my knowledge in both
          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raiven streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=johnraivenolazo&count_private=true&theme=react&border_radius=10" /> 
       </td>
       <td width="50%" align="center">
-         <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=johnraivenolazo&count_private=true&theme=react&layout=compact&border_radius=40&hide=HTML&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+         <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=johnraivenolazo&count_private=true&theme=react&layout=demo&hide=html,css&border_radius=40&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
       </td>
    </tr>
 </table>

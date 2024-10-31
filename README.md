@@ -14,7 +14,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me
 </h2></strong></p>
 
-<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johnraivenolazo&show_icons=true&theme=blueberry"/>
+<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=johnraivenolazo&include_all_commits=true&show_icons=true&theme=blueberry"/>
 
 <p align="center">
 I am a <strong>Computer Science</strong> student, expanding my knowledge in both front-end and back-end development. With experience as a web developer over the years of self learning, I am focused on strengthening my skills and exploring new technologies.
@@ -80,7 +80,7 @@ I am a <strong>Computer Science</strong> student, expanding my knowledge in both
 <table align="center">
    <tr border="none">
       <td width="50%" align="center">
-         <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=johnraivenolazo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+         <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=johnraivenolazo&count_private=true&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
          <br><br>
          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raiven streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=johnraivenolazo&count_private=true&theme=react&border_radius=10" /> 
       </td>

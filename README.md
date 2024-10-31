@@ -74,7 +74,7 @@ I am a <strong>Computer Science</strong> student, expanding my knowledge in both
 </div>
 <br/>
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <br>
 <p align="center">
 <table align="center">

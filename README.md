@@ -80,15 +80,15 @@ I am a <strong>Computer Science</strong> student, expanding my knowledge in both
 <table align="center">
    <tr border="none">
       <td width="50%" align="center">
-         <img align="center" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&include_all_commits=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-         <br><br>
-         <img alt="Raiven streak" src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&include_all_commits=true&theme=react&border_radius=10" /> 
+         <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&include_all_commits=true&theme=react&border_radius=10&rank_icon=github" alt="readme stats" />
+         <br>
+         <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&include_all_commits=true&theme=react&border_radius=10" alt="Raiven streak" /> 
       </td>
       <td width="50%" align="center">
-         <img align="center" src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&theme=react&layout=compact&hide=html,css,scss&border_radius=40&size_weight=0.5&count_weight=0.5" alt="top langs" />
+         <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&theme=react&layout=compact&hide=html,css,scss&border_radius=40&size_weight=0.5&count_weight=0.5" alt="top langs" />
       </td>
    </tr>
 </table>
 </p>
 <br/><br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7DF9FF&height=120&section=footer"/> <!--FOOTER-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7DF9FF&height=100&section=footer"/>

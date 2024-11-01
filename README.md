@@ -22,7 +22,13 @@ I am a <strong>Computer Science</strong> student, expanding my knowledge in both
 <p align="center">⚡ Fact about me <strong>I really love programming, I really do.</strong></p>
 <p align="center"><a href="mailto:johnraivenolazo@gmail.com"><img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a></p>
 
-### Education
+<p>
+<strong>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="25" height="25">
+Education
+</strong>
+</p>
+
 | Grade Level | School Name                            | Date              |
 |-------------|----------------------------------------|-------------------|
 | **College** | New Era University **(BSCS)**      | 2023 - Present    |

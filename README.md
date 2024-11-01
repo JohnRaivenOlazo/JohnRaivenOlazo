@@ -90,5 +90,4 @@ I am a <strong>Computer Science</strong> student, expanding my knowledge in both
    </tr>
 </table>
 </p>
-<br/><br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7DF9FF&height=100&section=footer"/>

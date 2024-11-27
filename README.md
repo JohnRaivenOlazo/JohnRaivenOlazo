@@ -78,7 +78,7 @@ Education
    <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-blue?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>
    </a>
     <br>
-   <a href="[https://courses.cognitiveclass.ai/certificates/301bc038c75a409da82c659fc04a1658](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C6331BCA6BEBD99297FD81E66BE2D02388DE29AB71C7DBBBA4944DB984172534)" target="_blank">
+   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C6331BCA6BEBD99297FD81E66BE2D02388DE29AB71C7DBBBA4944DB984172534" target="_blank">
    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Certified%20Foundations%20Associate-Oracle-blue?style=for-the-badge" alt="Oracle Cloud Infrastructure 2024 Certified Foundations Associate"/>
    </a>
 </div>

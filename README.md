@@ -20,7 +20,7 @@
 I am a <strong>computer science</strong> student expanding my knowledge of full-stack development. I began programming at 16 and have since gained extensive experience as a cross-platform developer through years of self-learning. I continuously work on enhancing my skills and applying innovative technologies to solve real-world challenges.
 </p>
 
-<p align="center">⚡ Fact about me <strong>I really love programming, I really do.</strong></p>
+<p align="center">⚡ Fact about me: I really love programming. <strong>I really do.</strong></p>
 
 <p align="center">
 <a href="https://raivendev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2897A9?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>

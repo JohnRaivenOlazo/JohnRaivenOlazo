@@ -17,7 +17,7 @@
 <img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=react"/>
 
 <p align="center">
-I am a <strong>Computer Science</strong> student, expanding my knowledge in both front-end and back-end development. With experience as a web developer over the years of self learning, I am focused on strengthening my skills and exploring new technologies.
+I am a <strong>computer science</strong> student expanding my knowledge of full-stack development. I began programming at 16 and have since gained extensive experience as a cross-platform developer through years of self-learning. I continuously work on enhancing my skills and applying innovative technologies to solve real-world challenges.
 </p>
 
 <p align="center">⚡ Fact about me <strong>I really love programming, I really do.</strong></p>

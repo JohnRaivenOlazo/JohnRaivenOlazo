@@ -19,8 +19,13 @@
 <p align="center">
 I am a <strong>Computer Science</strong> student, expanding my knowledge in both front-end and back-end development. With experience as a web developer over the years of self learning, I am focused on strengthening my skills and exploring new technologies.
 </p>
+
 <p align="center">⚡ Fact about me <strong>I really love programming, I really do.</strong></p>
-<p align="center"><a href="mailto:johnraivenolazo@gmail.com"><img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a></p>
+
+<p align="center">
+<a href="https://raivendev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2897A9?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+<a href="mailto:johnraivenolazo@gmail.com"><img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+</p>
 
 <p>
 <strong>
@@ -29,19 +34,15 @@ Education
 </strong>
 </p>
 
-| Grade Level | School Name                            | Date              |
-|-------------|----------------------------------------|-------------------|
-| **College** | New Era University **(BSCS)**      | 2023 - Present    |
-| **Senior High** | San Jose Litex Senior High School **(STEM)** | 2021 - 2023 |
+| Grade Level | School Name                               | Course                                      | Date              |
+|-------------|-------------------------------------------|---------------------------------------------|-------------------|
+| **College** | **New Era University** (Main Campus)      | **Bachelor of Science** in Computer Science | **2023** - Present    |
 
 
  <!--<p>- 👨‍💻 All of my projects are available at <strong><a href="https://johnraivenolazo.vercel.app">https://johnraivenolazo.vercel.app</a></p></strong> -->
 <!--   <a href="https://www.linkedin.com/in/john-raiven-olazo-145171280" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
    </a> -->
-<a href="https://johnraivenolazo.vercel.app" target="_blank">
-   <!--      <img src="https://img.shields.io/badge/Portfolio-2897A9?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> -->
-</a>
 <div align="center">
 </div>
 <h3 align="center">🌐 Connect With Me 🌐</h3>

@@ -23,7 +23,7 @@ I specialize in <strong>computer science</strong> and actively pursue mastery in
 <p align="center">⚡ Fact about me: I really love programming. <strong>I really do.</strong></p>
 
 <p align="center">
-<a href="https://raivendev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2897A9?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+<a href="https://johnraivenolazo.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2897A9?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 <a href="mailto:johnraivenolazo@gmail.com"><img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
 </p>
 

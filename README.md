@@ -26,13 +26,14 @@ I specialize in <strong>computer science</strong> and actively pursue mastery in
 <a href="https://johnraivenolazo.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2897A9?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 <a href="mailto:johnraivenolazo@gmail.com"><img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
 </p>
-
+<!--
 <p>
 <strong>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="25" height="25">
 Education
 </strong>
 </p>
+-->
 <!--
 | Grade Level | School Name                               | Course                                      | Date                  |
 |-------------|-------------------------------------------|---------------------------------------------|-----------------------|

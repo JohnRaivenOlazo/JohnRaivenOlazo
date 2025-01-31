@@ -33,11 +33,11 @@ I specialize in <strong>computer science</strong> and actively pursue mastery in
 Education
 </strong>
 </p>
-
-| Grade Level | School Name                               | Course                                      | Date              |
-|-------------|-------------------------------------------|---------------------------------------------|-------------------|
+<!--
+| Grade Level | School Name                               | Course                                      | Date                  |
+|-------------|-------------------------------------------|---------------------------------------------|-----------------------|
 | **College** | **New Era University** (Main Campus)      | **Bachelor of Science** in Computer Science | **2023** - Present    |
-
+-->
 
  <!--<p>- 👨‍💻 All of my projects are available at <strong><a href="https://johnraivenolazo.vercel.app">https://johnraivenolazo.vercel.app</a></p></strong> -->
 <!--   <a href="https://www.linkedin.com/in/john-raiven-olazo-145171280" target="_blank">

@@ -20,7 +20,7 @@
 I specialize in <strong>computer science</strong> and actively pursue mastery in <strong>full-stack development</strong>. I began programming at 16 and have since acquired extensive experience as a cross-platform developer through years of self-learning. I constantly refine my skills and apply innovative technologies to tackle real-world challenges.
 </p>
 
-<p align="center">⚡ Fact about me: I really love programming. <strong>I really do.</strong></p>
+<p align="center">I really love programming. <strong>I really do.</strong></p>
 
 <p align="center">
 <a href="https://johnraivenolazo.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2897A9?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>

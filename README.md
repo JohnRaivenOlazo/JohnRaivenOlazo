@@ -17,7 +17,7 @@
 <img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=react"/>
 
 <p align="center">
-I'm a software engineer with a deep focus on full-stack development. I started programming at 16 and have since gained hands-on experience as a cross-platform developer through years of self-learning. I’m always improving, building, and experimenting with new tech to solve real-world problems.
+I'm a software engineer. I started programming at 16 and have since gained hands-on experience as a cross-platform developer through years of self-learning. I’m always improving, building, and experimenting with new tech to solve real-world problems.
 </p>
 
 <p align="center">I really love programming. <strong>I really do.</strong></p>

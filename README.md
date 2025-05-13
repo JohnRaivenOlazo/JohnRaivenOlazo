@@ -67,7 +67,7 @@ Education
    <!-- Platforms/Cloud -->
    <!--     <img src="https://skillicons.dev/icons?i=aws,azure" /><br> -->
    <!-- Tools/Utilities -->
-   <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,git,github,docker" /><br>
+   <img src="https://skillicons.dev/icons?i=git,github,docker" /><br>
    <!--     <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,figma,docker,kubernetes,selenium" /><br> -->
    <!--     <!-- Databases -->
    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /><br>

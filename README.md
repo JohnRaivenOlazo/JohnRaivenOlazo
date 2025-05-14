@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=120&duration=4000&lines=initializing+profile...;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=120&duration=4000&lines=initializing+profile...;based+in+🇵🇭;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" />
 </h2>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header&text=No+System+Is+Safe&fontColor=39FF14&fontSize=20&textAlign=center&width=100%" /></p>

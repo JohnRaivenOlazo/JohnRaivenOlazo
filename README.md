@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7DF9FF&height=120&section=header"/> <!--HEADER-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=2897A9&style=plastic" alt="johnraivenolazo" /> </p>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/> <!--HEADER-->
 <p align="center">
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=000000&style=plastic" alt="johnraivenolazo" /></p>
   <img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner.gif" width="100%">
 </p>
 
@@ -14,7 +13,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me
 </h2></strong></p>
 
-<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=react"/>
+<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=dark"/>
 
 <p align="center">
 I'm a software engineer. I started programming at 16 and have since gained hands-on experience as a cross-platform developer through years of self-learning. I’m always improving, building, and experimenting with new tech to solve real-world problems.
@@ -23,8 +22,8 @@ I'm a software engineer. I started programming at 16 and have since gained hands
 <p align="center">I really love programming. <strong>I really do.</strong></p>
 
 <p align="center">
-<a href="https://johnraivenolazo.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2897A9?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
-<a href="mailto:johnraivenolazo@gmail.com"><img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+<a href="https://johnraivenolazo.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+<a href="mailto:johnraivenolazo@gmail.com"><img src="https://img.shields.io/badge/Contact-282828?style=for-the-badge&logo=gmail&logoColor=00FFFF" /></a>
 </p>
 <!--
 <p>
@@ -97,9 +96,9 @@ Education
 <table align="center">
    <tr border="none">
       <td width="50%" align="center">
-         <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&include_all_commits=true&theme=react&border_radius=10&rank_icon=github" alt="readme stats" target="_blank"/>
+         <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&include_all_commits=true&theme=dark&border_radius=10&rank_icon=github" alt="readme stats" target="_blank"/>
          <br>
-         <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&include_all_commits=true&theme=react&border_radius=10" alt="Raiven streak" target="_blank"/> 
+         <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&include_all_commits=true&theme=dark&border_radius=10" alt="Raiven streak" target="_blank"/> 
       </td>
       <td width="50%" align="center">
          <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&theme=react&layout=compact&hide=html,css,scss&border_radius=40&size_weight=0.5&count_weight=0.5" alt="top langs" />
@@ -107,4 +106,4 @@ Education
    </tr>
 </table>
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7DF9FF&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>

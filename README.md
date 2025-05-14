@@ -5,8 +5,7 @@
 </p>
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fjalla+One&pause=1000&color=7DF9FF&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi👋,+I'm+Raiven!+;+I+love+cats!+:);" />
-<p>A Software Engineer from 🇵🇭</p>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=120&duration=4000&lines=initializing+profile...;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" />
 </h2>
 
 <p><strong><h2>

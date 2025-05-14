@@ -101,7 +101,7 @@ Education
          <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&include_all_commits=true&theme=dark&border_radius=10" alt="Raiven streak" target="_blank"/> 
       </td>
       <td width="50%" align="center">
-         <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&theme=react&layout=compact&hide=html,css,scss&border_radius=40&size_weight=0.5&count_weight=0.5" alt="top langs" />
+         <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&theme=dark&layout=compact&hide=html,css,scss&border_radius=40&size_weight=0.5&count_weight=0.5" alt="top langs" />
       </td>
    </tr>
 </table>

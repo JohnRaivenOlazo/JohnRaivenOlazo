@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=2897A9&style=plastic" alt="johnraivenolazo" /> </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/gitbanner.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner.gif" width="100%">
 </p>
 
 <h2 align="center">

@@ -7,7 +7,7 @@
 
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fjalla+One&pause=1000&color=7DF9FF&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi👋,+I'm+Raiven!+;+I+love+cats!+:);" />
-<p>Software Engineer from 🇵🇭</p>
+<p>A Software Engineer from 🇵🇭</p>
 </h2>
 
 <p><strong><h2>

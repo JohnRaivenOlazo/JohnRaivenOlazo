@@ -73,7 +73,7 @@ Education
    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /><br>
 </div>
 <hr/>
-<h2 align="center">📜 Certifications 📜</h2>
+<!-- <h2 align="center">📜 Certifications 📜</h2>
 <div align="center">
    <a href="https://courses.cognitiveclass.ai/certificates/301bc038c75a409da82c659fc04a1658" target="_blank">
    <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-blue?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>
@@ -89,7 +89,7 @@ Education
    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20AI%20Certified%20Foundations%20Associate-Oracle-blue?style=for-the-badge" alt="Oracle Cloud Infrastructure 2024 Certified Foundations Associate"/>
    </a>
 </div>
-<br/>
+<br/> -->
 <hr/>
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <br>

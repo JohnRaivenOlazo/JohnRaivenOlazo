@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/> <!--HEADER-->
-<p align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=000000&style=plastic" alt="johnraivenolazo" /></p>
   <img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner.gif" width="100%">
-</p>
+
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=120&duration=4000&lines=initializing+profile...;based+in+🇵🇭;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" />
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=000000&style=plastic" alt="johnraivenolazo" /></p>  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=120&duration=4000&lines=initializing+profile...;based+in+🇵🇭;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" />
 </h2>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header&text=No+System+Is+Safe&fontColor=39FF14&fontSize=20&textAlign=center&width=100%" /></p>

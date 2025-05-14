@@ -8,9 +8,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=120&duration=4000&lines=initializing+profile...;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" />
 </h2>
 
-<p><strong><h2>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header&text=No+System+Is+Safe&fontColor=39FF14&fontSize=20&textAlign=center&width=100%" /></p>
+<strong>
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me
-</h2></strong></p>
+</strong>
 
 <img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=dark"/>
 
@@ -44,6 +45,8 @@ Education
    </a> -->
 <div align="center">
 </div>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=5&section=header" /></p>
+
 <h3 align="center">🌐 Connect With Me 🌐</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/john-raiven-olazo-145171280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-raiven-olazo-145171280/" height="30" width="40" /></a>
@@ -52,24 +55,37 @@ Education
 <p align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/output/github-contribution-grid-snake-dark.svg" />
 </p>
-<hr/>
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; Tech Stack &nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></h2>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=5&section=header" /></p>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20">&nbsp;Tech Stack&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"></h2>
+<div align="center">
+   <pre style="color: #39FF14; font-family: 'Fira Code', monospace; font-size: 16px; background-color: #000000; padding: 16px; border-radius: 10px; width: 80%; line-height: 1.5;">
+   > languages:
+      javascript, typescript, php, java, python, lua
+   > frameworks:
+      react, nextjs, nodejs, express, tailwind, bootstrap
+   > databases:
+      mongodb, mysql, postgresql
+   > tools:
+      git, github, docker
+   </pre>
+</div>
 <br/>
 <div align="center">
-   <!-- Programming Languages -->
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,php,java,python,lua" /><br>
-   <!-- Frameworks -->
-   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,bootstrap,tailwind,sass,express,firebase" /><br>
-   <!--     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,angular,vuejs,bootstrap,tailwind,sass,express,firebase,mongodb,mysql,spring" /><br> -->
-   <!-- Platforms/Cloud -->
-   <!--     <img src="https://skillicons.dev/icons?i=aws,azure" /><br> -->
-   <!-- Tools/Utilities -->
-   <img src="https://skillicons.dev/icons?i=git,github,docker" /><br>
-   <!--     <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,figma,docker,kubernetes,selenium" /><br> -->
-   <!--     <!-- Databases -->
-   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /><br>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
 </div>
-<hr/>
+<br />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header&text=No+System+Is+Safe&fontColor=39FF14&fontSize=20&textAlign=center&width=100%" /></p>
 <!-- <h2 align="center">📜 Certifications 📜</h2>
 <div align="center">
    <a href="https://courses.cognitiveclass.ai/certificates/301bc038c75a409da82c659fc04a1658" target="_blank">
@@ -87,7 +103,6 @@ Education
    </a>
 </div>
 <br/> -->
-<hr/>
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <br>
 <p align="center">
